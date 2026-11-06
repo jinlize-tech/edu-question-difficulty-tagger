@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-031",
+  "repository_name": "edu-question-difficulty-tagger",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-question-difficulty-tagger-v1.0.0.zip",
+  "sha256": "ABF7B72D822C9028B86B4385D74955E4AD6F754B3D2D2E958895624103A7B1A4",
+  "bytes": 4839,
+  "entries": [
+    "edu-question-difficulty-tagger/SKILL.md",
+    "edu-question-difficulty-tagger/references/DOMAIN_GUIDE.md",
+    "edu-question-difficulty-tagger/references/EXAMPLES.md",
+    "edu-question-difficulty-tagger/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:15:57.5851372+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

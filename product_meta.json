@@ -1,0 +1,24 @@
+{
+  "number": 37,
+  "product_id": "JLZ-EDU-SK-031",
+  "chinese_name": "题目知识点与难度标注",
+  "english_name": "Question Difficulty Tagger",
+  "repository_name": "edu-question-difficulty-tagger",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-question-difficulty-tagger-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "题目文本、知识点清单、认知层级、适用年级和难度标尺",
+  "main_output": "知识点标签、难度等级、标签依据、冲突提示和人工复核表",
+  "package_entries": [
+    "edu-question-difficulty-tagger/SKILL.md",
+    "edu-question-difficulty-tagger/references/DOMAIN_GUIDE.md",
+    "edu-question-difficulty-tagger/references/EXAMPLES.md",
+    "edu-question-difficulty-tagger/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
