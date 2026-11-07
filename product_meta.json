@@ -6,19 +6,37 @@
   "repository_name": "edu-question-difficulty-tagger",
   "product_type": "Skill",
   "category": "03 教学教研中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-question-difficulty-tagger-v1.0.0.zip",
+  "baseline_commit": "574a590a39dc6341ff4e7642d322b829b7d6b6c6",
+  "package_path": "dist/edu-question-difficulty-tagger-v1.0.1.zip",
+  "previous_package_path": "dist/edu-question-difficulty-tagger-v1.0.0.zip",
+  "previous_package_sha256": "ABF7B72D822C9028B86B4385D74955E4AD6F754B3D2D2E958895624103A7B1A4",
   "calculator": false,
   "core_input": "题目文本、知识点清单、认知层级、适用年级和难度标尺",
   "main_output": "知识点标签、难度等级、标签依据、冲突提示和人工复核表",
+  "main_output_fields": [
+    "知识点标签",
+    "难度等级",
+    "标签依据",
+    "冲突提示和人工复核表"
+  ],
   "package_entries": [
     "edu-question-difficulty-tagger/SKILL.md",
     "edu-question-difficulty-tagger/references/DOMAIN_GUIDE.md",
     "edu-question-difficulty-tagger/references/EXAMPLES.md",
-    "edu-question-difficulty-tagger/templates/OUTPUT_TEMPLATE.md"
+    "edu-question-difficulty-tagger/templates/OUTPUT_TEMPLATE.md",
+    "edu-question-difficulty-tagger/README.md",
+    "edu-question-difficulty-tagger/USAGE.md",
+    "edu-question-difficulty-tagger/LICENSE",
+    "edu-question-difficulty-tagger/THIRD_PARTY_NOTICES.md",
+    "edu-question-difficulty-tagger/scripts/validate_input.js"
   ]
 }
