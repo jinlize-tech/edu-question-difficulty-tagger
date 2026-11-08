@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在题目知识点与难度标注任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "题目文本": "标准合成场景｜题目知识点与难度标注的题目文本：已按合成业务口径准备",
+    "知识点清单": "标准合成场景｜题目知识点与难度标注的知识点清单：已按合成业务口径准备"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
